@@ -1,0 +1,18 @@
+p{
+  font-size: 20px;
+  margin: 10%;
+}
+.pending{
+  color: #595858;
+}
+.equal{
+  color: green;
+  font-weight: bold;
+}
+.notEqual{
+  color: red;
+  font-weight: bold;
+}
+.color{
+  background-color: #8d80da;
+}
